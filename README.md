@@ -16,6 +16,7 @@ RAD -extra -bounce 8 -smooth 120 -smooth2 120
 You can also add -verbose and -chart to the tools for information about the compiles.
 
 ST, RP:
+
 CSG -cliptype normalized
 BSP -nohull2
 VIS -full
